@@ -43,6 +43,7 @@ API RESTful desenvolvida com Spring Boot para gerenciamento de tarefas. O projet
 - Java 21+
 - Maven 3.8+
 - MySQL
+- Criar credenciais do tipo "ID do cliente OAuth 2.0" no gcp
 
 ### Configuração do banco de dados
 
